@@ -1,2 +1,3 @@
-# notas-typescript
-Notas de TypeScript hechas en obsidian
+# **Notas de TypeScript**
+
+En este repositorio se encuentran notas de TypeScript
